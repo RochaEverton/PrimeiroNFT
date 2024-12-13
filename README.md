@@ -15,8 +15,8 @@ The project involves creating Non-Fungible Tokens (NFTs) representing unique dig
 
 ### Images
 
-#### NFT Sample Image
-![NFT Sample](https://testnets.opensea.io/assets/avalanche-fuji/0x8eac0f031828b71402014a625de2a369609ae8d7/1/)
+#### NFT created
+![NFT Sample](https://github.com/RochaEverton/PrimeiroNFT/blob/main/Images/Certificado%20Introdu%C3%A7%C3%A3o%20ao%20NFT.%20-%20Certificados%20OpenSea.png)
 
 #### OpenSea Platform Screenshot
 ![OpenSea Screenshot](https://testnets.opensea.io/assets/avalanche-fuji/0x8eac0f031828b71402014a625de2a369609ae8d7/1/)
