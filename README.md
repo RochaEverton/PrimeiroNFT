@@ -27,3 +27,8 @@ The project involves creating Non-Fungible Tokens (NFTs) representing unique dig
 
 #### OpenSea Transfer Screenshot
 ![OpenSea Screenshot](https://github.com/RochaEverton/PrimeiroNFT/blob/main/Images/YourTransfer.png)
+
+
+#### Transfer Details Screenshot
+![OpenSea Screenshot](https://github.com/RochaEverton/PrimeiroNFT/blob/main/Images/Transaction%20Details%20Explorer.png)
+
