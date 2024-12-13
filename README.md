@@ -17,8 +17,7 @@ The project involves creating Non-Fungible Tokens (NFTs) representing unique dig
 
 
 #### NFT created
-![NFT Sample](https://github.com/RochaEverton/PrimeiroNFT/blob/main/Images/Certificado%20Introdu%C3%A7%C3%A3o%20ao%20NFT.%20-%20Certificados%20OpenSea.png)
-
+<img src="https://github.com/RochaEverton/PrimeiroNFT/blob/main/Images/Certificado%20Introdu%C3%A7%C3%A3o%20ao%20NFT.%20-%20Certificados%20OpenSea.png" alt="NFT Created" width="400"/>
 
 
 #### OpenSea Platform Screenshot
