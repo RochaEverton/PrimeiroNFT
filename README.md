@@ -19,15 +19,13 @@ The project involves creating Non-Fungible Tokens (NFTs) representing unique dig
 #### NFT created
 <img src="https://github.com/RochaEverton/PrimeiroNFT/blob/main/Images/Certificado%20Introdu%C3%A7%C3%A3o%20ao%20NFT.%20-%20Certificados%20OpenSea.png" alt="NFT Created" width="600"/>
 
-
 #### OpenSea Platform Screenshot
-<img src="https://github.com/RochaEverton/PrimeiroNFT/blob/main/Images/OpenSea.png" alt="Opensea Plataform" width="600"/>
-
+<img src="https://github.com/RochaEverton/PrimeiroNFT/blob/main/Images/Opensea.png" alt="OpenSea Screenshot" width="600"/>
 
 #### OpenSea Transfer Screenshot
-![OpenSea Screenshot](https://github.com/RochaEverton/PrimeiroNFT/blob/main/Images/YourTransfer.png)
-
+<img src="https://github.com/RochaEverton/PrimeiroNFT/blob/main/Images/YourTransfer.png" alt="OpenSea Transfer Screenshot" width="600"/>
 
 #### Transfer Details Screenshot
-![OpenSea Screenshot](https://github.com/RochaEverton/PrimeiroNFT/blob/main/Images/Transaction%20Details%20Explorer.png)
+<img src="https://github.com/RochaEverton/PrimeiroNFT/blob/main/Images/Transaction%20Details%20Explorer.png" alt="Transfer Details Screenshot" width="600"/>
+
 
